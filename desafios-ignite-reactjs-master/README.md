@@ -2,13 +2,12 @@
 
 ## Índice de desafios
 
-[<h3>Módulo 1</h3>](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-1 "<h3>Módulo 1</h3>")
+[<h3>Módulo 1</h3>]
 
 - [Desafio 01 - Conceitos do React](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-1/desafio-01)
 - [Desafio 02 - Componentizando a aplicação](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-1/desafio-02)
 
-[<h3>Módulo 2</h3>](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-2 "<h3>Módulo 2</h3>")
-
+[<h3>Módulo 2</h3>]
 - [Desafio 01 - Criando um hook de carrinho de compras](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-2/desafio-01)
 - [Desafio 02 - Refactoring de classes e typescript](https://github.com/marchetti2/desafios-ignite-reactjs/tree/master/modulo-2/desafio-02)
 

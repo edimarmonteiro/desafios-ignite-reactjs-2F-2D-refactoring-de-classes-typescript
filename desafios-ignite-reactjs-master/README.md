@@ -4,16 +4,13 @@
 
 <h3>Módulo 1</h3>
 - [Desafio 01 - Conceitos do React](https://github.com/edimarmonteiro/desafios-ignite-reactjs-1F-1D-conceitos-do-react)
-
-
+- ----
 - [Desafio 02 - Componentizando a aplicação](https://github.com/edimarmonteiro/desafios-ignite-reactjs-1F-2D-componentizando-a-aplicacao)
  
  
 <h3>Módulo 2</h3>
 - [Desafio 01 - Criando um hook de carrinho de compras](https://github.com/edimarmonteiro/desafios-ignite-reactjs-2F-1D-criando-um-hook-de-carrinho-compras)
-
-
-
+-----
 - [Desafio 02 - Refactoring de classes e typescript](https://github.com/edimarmonteiro/desafios-ignite-reactjs-2F-2D-refactoring-de-classes-e-typescript)
 
 
